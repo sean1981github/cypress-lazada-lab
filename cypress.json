@@ -1,0 +1,9 @@
+{
+  "ignoreTestFiles": "**/examples/*.js",
+  "env": {
+    "host": "https://www.lazada.sg/"
+  },
+
+  "viewportWidth": 1280,
+  "viewportHeight": 700
+}
